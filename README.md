@@ -2,6 +2,9 @@
 
 **A non-invasive brain-computer interface that turns the intention to grasp into the movement of a robotic arm.**
 
+<p align="center"><img src="img/grasp.gif" width="560" alt="A simulated prosthetic hand grasps a cup when the AI detects the intention to grasp in real recorded EEG"></p>
+<p align="center"><sub>Real recorded brain signals from a person the AI had never seen, driving a simulated prosthetic hand.</sub></p>
+
 ## The problem
 
 Pick up your pen. Your brain decided, and your hand obeyed. For people living with amputation or paralysis, that intention is still born in the brain. The message just never reaches the hand.
@@ -15,7 +18,7 @@ This project reads brain signals (EEG) from sensors on the scalp, recognizes whe
 It is designed around three ideas:
 
 - **No surgery.** Sensors on the scalp instead of implants, trading some signal quality for safety and cost.
-- **Quick to start.** A new user should need minutes of setup, not hours of training.
+- **Ready from the first minute.** It works on new users with no calibration session.
 - **One reliable decision.** The system focuses on the intention to grasp, the decision that matters most for a prosthetic hand.
 
 ## My work
@@ -26,6 +29,8 @@ I build the machine learning side: the models that classify EEG signals and deci
 
 - VI SAE 2026, UFSM: "Turning Thoughts into Movement: Brain-Controlled Robotic Prosthetics".
 - JAI 2025, UFSM.
+
+![VI SAE 2026 slide: Turning thoughts into movement](img/vi-sae-2026-slide.jpg)
 
 ## What's next
 
