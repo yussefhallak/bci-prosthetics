@@ -38,6 +38,6 @@ Taking the system from simulation to a physical robotic arm.
 
 ## About
 
-Independent research by Yussef Omar Hallak, Control and Automation Engineering, UFSM.
+Independent research by Yussef Omar Hallak, mechatronics engineering student at UFSM.
 
 The source code is private. Reviewers and hiring teams can request access at yussefomarh@gmail.com.
